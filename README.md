@@ -22,7 +22,9 @@ This project analyzes an e-commerce dataset to understand customer behavior, rev
 - Delivery delays vary significantly across states  
 
 ## 📈 Dashboard Preview
-Dashboard/Dashboard/dashboard_screenshot.png
+## 📈 Dashboard Preview
+
+![Dashboard](Dashboard/Dashboard/dashboard_screenshot.png)
 
 ## 🔗 Live Dashboard (Optional)
 (Add your Power BI link here if available)
